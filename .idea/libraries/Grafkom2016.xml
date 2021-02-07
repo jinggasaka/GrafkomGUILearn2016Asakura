@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Grafkom2016">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Grafkom2016.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
